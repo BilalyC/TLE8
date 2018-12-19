@@ -1,0 +1,7 @@
+C:\Users\Moi\source\listes\Exo8\Exo8\bin\Debug\Exo8.exe.config
+C:\Users\Moi\source\listes\Exo8\Exo8\bin\Debug\Exo8.exe
+C:\Users\Moi\source\listes\Exo8\Exo8\bin\Debug\Exo8.pdb
+C:\Users\Moi\source\listes\Exo8\Exo8\obj\Debug\Exo8.csproj.CoreCompileInputs.cache
+C:\Users\Moi\source\listes\Exo8\Exo8\obj\Debug\Exo8.exe
+C:\Users\Moi\source\listes\Exo8\Exo8\obj\Debug\Exo8.pdb
+C:\Users\Moi\source\listes\Exo8\Exo8\obj\Debug\Exo8.csprojAssemblyReference.cache
